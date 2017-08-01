@@ -1,0 +1,30 @@
+.title {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    position: relative;
+  top: 10%;
+  left: 43%;
+  margin-top: 50px;
+  margin-left: -100px;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.callnow {background-color: lightgrey;
+width: 300px;
+border: 25px solid green;
+padding: 25px;
+margin: 25px;
+position: relative;
+top: 10%;
+left: 43%;
+margin-top: 50px;
+margin-left: -100px;}
